@@ -1,0 +1,30 @@
+:root {
+    /* Colores principales */
+    --primary: #10b981;
+    --primary-dark: #059669;
+    --primary-light: #d1fae5;
+
+    /* Fondos */
+    --background: #f8fafc;
+    --surface: #ffffff;
+    --dark: #0f172a;
+
+    /* Textos */
+    --text-primary: #0f172a;
+    --text-secondary: #64748b;
+
+    /* Estados */
+    --success: #22c55e;
+    --warning: #f59e0b;
+    --danger: #ef4444;
+
+    /* Bordes */
+    --border: #e2e8f0;
+    --radius: 16px;
+
+    /* Sombras */
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+
+    /* Tipografía */
+    --font-family: 'Inter', sans-serif;
+}

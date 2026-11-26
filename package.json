@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chart.js": "^4.6.2",
+    "lucide-vue-next": "^1.0.0",
+    "vue": "^3.5.46",
+    "vue-chartjs": "^5.3.7",
+    "vue-router": "^4.6.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.11",
+    "vite": "^8.3.8"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "type": "module"
+}
